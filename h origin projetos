@@ -1,0 +1,7 @@
+[33m7f52351[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprojetos[m[33m)[m Remover .env do repositório e ignorar
+[33mbd101f4[m Remove arquivo .env com token do repositório
+[33m1d08dcc[m chore: remove .env e prepara projeto para push seguro
+[33m0c7c29e[m chore: remove .env do controle de versão
+[33m2df79f5[m feat: adiciona busca de projetos via API do GitHub com token seguro
+[33m57ade5b[m feat: adiciona busca de projetos no GitHub usando API
+[33m2b05ab4[m[33m ([m[1;31morigin/projetos[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Initial commit
