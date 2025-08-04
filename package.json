@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "dotenv": "^17.2.1"
-  }
+    "chalk": "^5.5.0        ",
+    "node-fetch": "^2.7.0"
+  },
   
+"type": "module"
 }
-
