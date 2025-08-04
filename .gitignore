@@ -1,0 +1,9 @@
+.env
+node_modules/
+.git.bfg-report
+..bfg-report
+bfg-*.jar
+remover-tokens.txt
+REMOVED
+*.log
+koru_projeto_CLI.bfg-report/
