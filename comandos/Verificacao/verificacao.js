@@ -1,6 +1,6 @@
 import chalk from "chalk";
-const readline = require("readline-sync");
-const { cnpj } = require("cpf-cnpj-validator");
+import readline from "readline-sync";
+import cnpj from "cpf-cnpj-validator";
 
 function verificarSegurancaDoacoes() {
 console.log(chalk.bgRed.white.bold("🚨 ALERTA DE SEGURANÇA PARA DOAÇÕES 🚨\n"));
@@ -53,5 +53,4 @@ console.log(
 );
 }
 
-verificarSegurancaDoacoes()
 export default verificarSegurancaDoacoes;
