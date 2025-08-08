@@ -29,6 +29,14 @@ node ./bin/index.js noticias
 
 ---
 
+## 🎥 Demonstração
+
+
+
+https://github.com/user-attachments/assets/dad905f2-9cf4-40f6-81ff-a1dfa23a1b01
+
+---
+
 ## 📦 Comandos disponíveis
 
 - `doabem noticias` → Mostra notícias sobre doações infantis e doenças raras (via NewsAPI)  
